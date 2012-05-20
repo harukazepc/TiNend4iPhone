@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2012 by Your Company
+
+
+# these should not be edited
+name: tinend4iphone
+moduleid: tv.harukaze.ti.nend.iphone
+guid: ed11d5b9-21a5-4a5d-a4df-401461dea2d6
+platform: iphone
+minsdk: 2.0.1.GA2
